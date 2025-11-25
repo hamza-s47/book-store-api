@@ -15,7 +15,7 @@ No database is used, all data is stored in-memory.
 - Gorilla Mux Router
 - No database (data stored in Go slice)
 
-  ## API Endpoints
+## API Endpoints
 | Method | Endpoint      | Description      |
 | ------ | ------------- | ---------------- |
 | GET    | `/book`      | Get all books    |
