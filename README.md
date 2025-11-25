@@ -13,7 +13,7 @@ No database is used, all data is stored in-memory.
 ## Tech Used:
 - Go (Golang)
 - Gorilla Mux Router
-- No database (data stored in Go slice)Book Store API (Learning Project)
+- No database (data stored in Go slice)
 
   ## API Endpoints
 | Method | Endpoint      | Description      |
