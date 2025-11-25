@@ -1,6 +1,6 @@
 # Book Store API (Learning Project)
-This is a simple Book Store API built using Gorilla Mux in Go.
-The project is created only for learning purposes to understand routing, handlers, and building basic REST APIs in Go.
+This is a simple Book Store API built using Gorilla Mux in Go. <br/>
+The project is created only for learning purposes to understand routing, handlers, and building basic REST APIs in Go. <br/>
 No database is used, all data is stored in-memory.
 
 ## What This Project Teaches?
